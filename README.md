@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lod1995
 - 👀 I’m interested in HTML, CSS, JavaScript, Three.js, Node & Express
-- 🌱 I’m currently learning Three.js
+- 🌱 I’m currently learning SEO & the Javscript frameworks.
 
 
 <!---
